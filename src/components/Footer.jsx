@@ -6,7 +6,7 @@ function Footer() {
     <footer className="footer">
       <div className="footer-inner">
         <div className="footer-section">
-          <h3>About Us</h3>
+          <h3>About us</h3>
           <p>Your trusted digital partner for growth. We build, market, and scale online businesses.</p>
         </div>
 
