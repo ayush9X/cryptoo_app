@@ -6,7 +6,7 @@ function Footer() {
     <footer className="footer">
       <div className="footer-inner">
         <div className="footer-section">
-          <h3>Landing Page</h3>
+          <h3>About Us</h3>
           <p>Your trusted digital partner for growth. We build, market, and scale online businesses.</p>
         </div>
 
@@ -29,7 +29,7 @@ function Footer() {
           </ul>
         </div>
 
-        <div className="footer-section">
+        {/* <div className="footer-section">
           <h4>Follow Us</h4>
           <div className="social-icons">
             <a href="/"><i className="fab fa-facebook-f"></i></a>
@@ -37,7 +37,7 @@ function Footer() {
             <a href="/"><i className="fab fa-twitter"></i></a>
             <a href="/"><i className="fab fa-telegram"></i></a>
           </div>
-        </div>
+        </div> */}
       </div>
 
       <div className="footer-bottom">
